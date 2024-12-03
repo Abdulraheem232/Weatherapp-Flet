@@ -78,5 +78,3 @@ The app changes the weather image based on the weather description:
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-This README provides a good overview of the app's features, installation steps, and code structure. Adjust the repository links, API key details, and other project-specific information as needed.
